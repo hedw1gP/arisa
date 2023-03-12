@@ -1,6 +1,8 @@
 # Arisa
 
-Live demo at [arisa.qwp.moe](https://arisa.qwp.moe).
+~~Live demo at [arisa.qwp.moe](https://arisa.qwp.moe).~~
+
+## There is a better project called [HoneyWorks-Info](https://github.com/HaniwaWiki/HoneyWorks-Info) which is way better than my homework.
 
 Consider using my referral link to support.
 
